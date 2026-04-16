@@ -1,0 +1,5 @@
+{
+  "source_url": "https://books.toscrape.com/",
+  "max_books": 12,
+  "use_selenium": false
+}
